@@ -1,0 +1,13 @@
+.pieChart {
+    stroke: rgb(255, 255, 255);
+    stroke-width: 1;
+}
+
+#target {
+    width: 883px;
+    height: 883px;
+}
+
+.thai-single-stat-data .single-stat #target {
+    height: 474px;
+}
